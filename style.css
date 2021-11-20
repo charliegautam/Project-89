@@ -1,0 +1,27 @@
+body
+{
+	background:linear-gradient(red,rgb(238, 0, 186))
+	
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(243, 138, 0);
+		padding: 10px;
+		float: none;
+		border-radius: 100px;
+        width: 1000px;
+	}
+#login{
+    border-radius: 100px;
+}
+#player1_input{
+    background-color: yellow;
+    color: tomato;
+    width: 800px;
+}
+#player2_input{
+    background-color: yellow;
+    color: tomato;
+    width: 800px;
+}
