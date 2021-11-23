@@ -1,6 +1,6 @@
-body
+#body_1
 {
-	background:linear-gradient(red,rgb(238, 0, 186))
+	background:linear-gradient(red,rgb(238, 0, 186));
 	
 }
 
@@ -24,4 +24,16 @@ body
     background-color: yellow;
     color: tomato;
     width: 800px;
+}
+#body_2
+{
+	background:rgb(247, 164, 196)
+}
+#output{
+    background: rgb(250, 98, 250);
+    border-radius: 10px;
+    border-top: 10px solid rgb(245, 73, 73);
+    padding: 10px;
+    float: none;
+    text-align: left;
 }
